@@ -28,5 +28,5 @@ The Hospital Management System is a comprehensive application designed to stream
 
 ### Installation
 1. Clone the repository:
-   git clone https://github.com/yourusername/hospital-management-system.git
+   git clone https://github.com/ashritha2006/Hospital-Management-System?tab=readme-ov-file
    cd hospital-management-system
